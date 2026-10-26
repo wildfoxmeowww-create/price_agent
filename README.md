@@ -187,3 +187,6 @@ __pycache__/
 ## Built with
 
 Python, the Google Gemini API (`google-genai`), `requests`, `yfinance`, `matplotlib`, and `python-dotenv`. Data from CoinPaprika, Yahoo Finance and Frankfurter.
+## Author
+
+Made by [wildfoxmeowww-create]Yashraj & Jyothika (https://github.com/wildfoxmeowww-create)
