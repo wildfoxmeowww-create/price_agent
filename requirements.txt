@@ -1,0 +1,6 @@
+google-genai
+requests
+yfinance
+python-dotenv
+matplotlib
+

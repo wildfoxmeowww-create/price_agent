@@ -1,0 +1,6 @@
+.env
+venv/
+watchlist.json
+portfolio.json
+charts/
+__pycache__/
